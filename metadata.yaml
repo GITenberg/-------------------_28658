@@ -1,0 +1,52 @@
+_repo: '-------------------_28658'
+_version: 0.1.0
+alternative_title: Canne al vento (Reeds in the Wind)
+contributor:
+  translator:
+    agent_name: Alexandridis, Christos
+    alias: Αλεξανδρίδης, Χρίστος
+    gutenberg_agent_id: '33473'
+    url: http://www.gutenberg.org/2009/agents/33473
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Deledda, Grazia
+    aliases:
+    - Madesani, Grazia Deledda
+    - Deledda, Maria Grazia Cosima
+    birthdate: 1871
+    deathdate: 1936
+    gutenberg_agent_id: '33472'
+    url: http://www.gutenberg.org/2009/agents/33472
+    wikipedia:
+    - http://it.wikipedia.org/wiki/Grazia_Deledda
+    - http://en.wikipedia.org/wiki/Grazia_Deledda
+  editor:
+    agent_name: Kotara, Lita
+    alias: Κοταρά, Λίτα
+    gutenberg_agent_id: '33474'
+    url: http://www.gutenberg.org/2009/agents/33474
+description:
+- Γκράτσια Ντελέντα = Grazia Deledda
+- Original Italian first published 1913, by Fratelli Treves, Milano.
+gutenberg_issued: '2009-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28658'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sardinia (Italy) -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Sisters -- Fiction'
+- !lcsh 'Nephews -- Fiction'
+- !lcsh 'Farms, Small -- Italy -- Sardinia -- Fiction'
+- !lcsh 'Peasants -- Italy -- Fiction'
+- !lcsh 'Superstition -- Religious aspects -- Italy -- Fiction'
+- !lcc 'PQ'
+title: Καλαμιές στον άνεμο
+url: http://www.gutenberg.org/ebooks/28658
